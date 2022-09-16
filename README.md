@@ -1,2 +1,2 @@
-# Brain_tumor-Detection-using-Pyhton
+# Brain_tumor-Detection
 Single class classification
